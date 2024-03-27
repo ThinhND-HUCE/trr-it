@@ -1,3 +1,8 @@
+# Thực hành
+* Sinh viên mở thư mục `Toán ứng dụng` trên Desktop, mở shortcut VSCode trong đó
+* Thực hành theo file thực hành chương 1
+
+
 # TOÁN RỜI RẠC
 * Sinh viên vào xem thông báo **1 ngày** trước mỗi buổi học
 * Cập nhật
