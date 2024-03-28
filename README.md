@@ -1,6 +1,6 @@
 # Thực hành
 * Sinh viên mở thư mục `Toán ứng dụng` trên Desktop, mở shortcut VSCode trong đó
-* Thực hành theo file thực hành chương 1
+* Thực hành theo file thực hành chương 1 trong thư mục `Code`
 
 
 # TOÁN RỜI RẠC
