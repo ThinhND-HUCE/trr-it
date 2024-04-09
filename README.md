@@ -1,7 +1,7 @@
-# Thực hành
-* Sinh viên mở thư mục `Toán ứng dụng` trên Desktop, mở shortcut VSCode trong đó
-* Thực hành theo file thực hành chương 1 trong thư mục `Code`
-* Mỗi mã trong file thực hành, sinh viên gõ vào một file đuôi `*.ipynb`
+# Thông báo
+* Hôm nay thứ 4 ngày 9/4/2024, tiết 10-12, lớp 67IT1 thực hành chương 2, 3, 4, 5
+* Giảng viên đến muộn một chút, cuối giờ chấm kết quả thực hành
+
 
 # Toán rời rạc
 * Sinh viên vào xem thông báo **1 ngày** trước mỗi buổi học
