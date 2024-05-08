@@ -1,6 +1,5 @@
 # Thông báo
-* Hôm nay thứ 4 ngày 9/4/2024, tiết 10-12, lớp 67IT1 thực hành chương 2, 3, 4, 5
-* Giảng viên đến muộn một chút, cuối giờ chấm kết quả thực hành
+* Lớp 67IT5 học bù vào tiết 4 thứ 5 ngày 9/5/2024
 
 
 # Toán rời rạc
