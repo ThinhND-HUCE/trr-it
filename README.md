@@ -1,5 +1,5 @@
 # Thông báo
-* Sinh viên in file `Code for Final Exam.pdf` làm tài liệu phục vụ thi
+* Sinh viên chỉ được dùng file `Code for Final Exam.pdf` làm tài liệu phục vụ thi
   + In 2 mặt ra A4, gồm 23 trang = 12 tờ A4)
   + Mỗi sinh viên in 1 bản, không được dùng chung
   + Thi trên máy của phòng máy, chỉ được sử dụng VS code, không được sử dụng máy tính bỏ túi, hay bất kỳ phần mềm nào khác
