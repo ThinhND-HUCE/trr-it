@@ -2,7 +2,7 @@
 Hình thức thi:
 <ul>
   <li>tự luận, tại phòng máy, trên máy tính <b>chỉ được mở Python</b></li>
-  <li>không được dùng tài liệu (kể cả trên máy tính)</li>
+  <li>được dùng tài liệu (theo chỉ định của giảng viên phụ trách)</li>
   <li>thời gian: 90 phút</li>
 </ul>
 
