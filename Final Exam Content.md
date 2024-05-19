@@ -45,7 +45,7 @@ for i = 1 to n do
       <li>Warshall: ghi ra các ma trận $W_0, W_1,\ldots, W_{n-1}$ và $M^*$</li>
     </ol>
   </li>
-  <li><b>Chương 9:</b> Cho hàm $a(n)$ định nghĩa bằng đệ quy.
+  <li><b>Chương 9: (tham khảo ví dụ 9.21)</b> Cho hàm $a(n)$ định nghĩa bằng đệ quy.
 <pre>
 def a(n):
     if n == 0:
