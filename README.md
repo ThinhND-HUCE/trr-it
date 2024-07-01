@@ -1,4 +1,6 @@
 # Thông báo
+* Lớp DQT38 học trên MS Teams vào 18h ngày 01/7/2024. Link giảng viên sẽ tạo và để ở đây sau.
+
 * Sinh viên chỉ được dùng file `Code for Final Exam.pdf` làm tài liệu phục vụ thi
   + In 2 mặt ra A4, gồm 23 trang = 12 tờ A4)
   + Mỗi sinh viên in 1 bản, không được dùng chung
