@@ -1,5 +1,5 @@
 # Thông báo
-* Lịch thi môn Toán rời rạc của lớp DQT38: **tiết 4 thứ 4 ngày 03/7/2024 tại Phòng máy 2**
+* Lịch thi môn Toán rời rạc của lớp DQT38: **tiết 4 thứ 4 ngày 03/7/2024 tại Phòng máy 1**
 * Sinh viên trùng lịch thi cần báo ngay cho giảng viên phụ trách để bố trí vào tiết 1 hoặc tiết 10 cùng ngày (vẫn trên phòng máy)
 
 * Sinh viên chỉ được dùng file `Code for Final Exam.pdf` làm tài liệu phục vụ thi
